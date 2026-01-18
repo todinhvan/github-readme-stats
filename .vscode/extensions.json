@@ -1,9 +1,7 @@
 {
     "recommendations": [
-        "yzhang.markdown-all-in-one",
+        "myml.vscode-markdown-plantuml-preview",
         "esbenp.prettier-vscode",
-        "dbaeumer.vscode-eslint",
-        "ms-azuretools.vscode-containers",
-        "github.vscode-github-actions"
+        "jebbs.plantuml"
     ]
 }
